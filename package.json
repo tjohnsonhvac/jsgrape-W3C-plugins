@@ -1,0 +1,15 @@
+{
+  "name": "grapejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "grapesjs": "^0.15.8",
+    "grapesjs-blocks-basic": "^0.1.8"
+  }
+}
